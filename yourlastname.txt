@@ -1,4 +1,4 @@
 my name is Yannick.
 I am stuying mechanical engineering at RWTH Aachen.
-First changes for tesing git
+Testing Github Desktop
 
